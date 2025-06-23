@@ -7,7 +7,7 @@ import java.util.Scanner;
 //Withdraw Money
 //Exit
 //We can handle this using switch case.
-public class ATMSwitchCase {
+public class Lab017_ATMSwitchCase {
     public static void main(String[] args) {
         double balance= 10000;
         Scanner sc= new Scanner(System.in);
